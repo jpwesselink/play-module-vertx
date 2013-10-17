@@ -1,0 +1,6 @@
+self: play -> vertx 0.0.1
+
+require:
+    - play
+    - io.vertx -> vertx-core 2.0.2-final
+    - io.vertx -> vertx-platform 2.0.2-final
